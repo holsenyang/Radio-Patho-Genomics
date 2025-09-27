@@ -1,4 +1,4 @@
-# Multi-omics Data Analysis Pipeline for SCI Research
+# Multi-omics Data Analysis Pipeline
 
 A comprehensive bioinformatics pipeline for multi-omics data analysis, including co-expression network construction, functional enrichment, and pathway activity analysis.
 
